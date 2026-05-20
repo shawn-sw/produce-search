@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#0f766e"/>
+<circle cx="182" cy="282" r="90" fill="#f97316"/>
+<path d="M260 180c70-78 160-52 176-40-8 72-73 132-154 118" fill="#22c55e"/>
+<path d="M254 184c-38-64-12-108 8-132 48 40 52 96 10 148" fill="#84cc16"/>
+<text x="256" y="390" font-size="78" text-anchor="middle" fill="white" font-family="Arial">PLU</text>
+</svg>
