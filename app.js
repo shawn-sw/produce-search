@@ -53,6 +53,7 @@ function render() {
 <div class="card-title">${escapeHtml(p.description)}</div>
 <div class="row"><div class="label">编号</div><div>${escapeHtml(p.article_no)}</div></div>      <div class="row"><div class="label">PLU</div><div>${escapeHtml(p.plu)}</div></div>
       <div class="row"><div class="label">产地</div><div>${escapeHtml(p.origin)}</div></div>
+      <div class="row"><div class="label">价格</div><div>${escapeHtml(p.price)}</div></div>
       <div class="row"><div class="label">中文描述</div><div><span class="badge">${escapeHtml(p.chinese_description)}</span></div></div>
     </article>
   `).join("");
